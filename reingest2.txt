@@ -1,0 +1,111 @@
+screen -A -m -d -S sc_CJ91120_2022_08_09 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/20/7c3ac2f3-f91e-4802-a53d-0182bd7309f4 --error-incomplete 0
+
+screen -A -m -d -S sc_CJ91120_2022_08_09 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/09/12312867-80e9-4d0d-a0ca-0182834adf00 --error-incomplete 0
+-input directory: incomplete
+-error incomplete days: 1
+-error session operation: List(SendSessionMetrics, SendSessionQualityTags, RemoveLinks, RemoveDirectories, CreateDirectories, CreateLink, SessionCheckFinishedMetric)
+
+
+screen -A -m -d -S sc_CJ91120_2022_08_09 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/09/16cf85e6-43fc-4e15-aba6-0182835ffcfa --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_09 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/09/223875af-0e2f-4158-a4e1-018281de3e15 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_09 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/09/4c3d4392-4090-4675-ac0b-0182835a0772 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_09 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/09/9743666d-27e4-4985-a7aa-0182835f56d5 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_09 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/09/9b4db36d-36a4-4598-a76e-0182834fb657 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_09 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/09/da9f1bce-dd25-46ac-af19-018283638213 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_12 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/12/ee263263-1d1f-4de4-a5e0-01829204c61d --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_17 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/17/30826ab2-d07e-4a21-a86d-0182ac27b76d --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_17 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/17/6907a403-0c9b-4151-a455-0182ac1cd955 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_17 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/17/8941acf2-dbfe-4bde-a4c9-0182ac2e1140 --error-incomplete 0;
+
+screen -A -m -d -S sc_CJ91120_2022_08_17 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/17/95b4cc26-9031-4c07-a563-0182ac2bfefc --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_17 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/17/a8697a2c-ba12-4c0b-aad8-0182ac25643a --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_17 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/17/adb0f39c-5f92-443d-afe4-0182ac27bd18 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_17 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/17/c456d570-c19c-430b-a607-0182ac2e4833 --error-incomplete 0;
+
+
+
+screen -A -m -d -S sc_CJ91120_2022_08_18 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/18/0c7d8482-cc2e-46fb-a762-0182b1ca2455 --error-incomplete 0;
+
+
+screen -A -m -d -S sc_CJ91120_2022_08_18 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/18/211ac4db-3f72-4d72-a556-0182b1d4c141 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_18 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/18/3805ef83-566f-45f3-af88-0182b1f1dbb4 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_18 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/18/3bcf8c8e-43c4-49f8-aace-0182b1c996b8 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_18 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/18/5f844ae2-8639-4721-a237-0182b1e435fa --error-incomplete 0;
+
+screen -A -m -d -S sc_CJ91120_2022_08_18 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/18/7822d4aa-e3bb-4876-a159-0182b1d1e05d --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_18 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/18/78950f39-f578-42ce-a650-0182b1e08f8f --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_18 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/18/7a3a4208-af15-4c3e-aa7d-0182b1de3dcb --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_18 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/18/db774f79-1793-486e-a204-0182b1ce8416 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_20 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/20/1d869c91-0845-41f4-a970-0182bbed6cce --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_20 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/20/32d9c464-0cf9-4fb7-a709-0182bc165e7f --error-incomplete 0;
+
+screen -A -m -d -S sc_CJ91120_2022_08_20 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/20/4a6051af-0f23-4e4f-aa4e-0182bc249f1a --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_20 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/20/56c7ee17-eece-4729-a65a-0182bd41d745 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_20 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/20/5c12d7e6-a6b8-488e-aa9f-0182bc2150ab --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_20 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/20/6372c6b7-3c1e-407b-ad70-0182bbc91217 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_20 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/20/781babbc-1e94-42ec-aadb-0182bc02ae0d --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_20 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/20/7c3ac2f3-f91e-4802-a53d-0182bd7309f4 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_20 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/20/8b9e1e70-0ed2-4cd3-a2dc-0182bc156a6e --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_20 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/20/935ae7f3-537a-4b3c-a78e-0182bd67a826 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_20 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/20/b82c92d1-f86b-42bf-a3b2-0182bc08ce21 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_20 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/20/c1b8699a-6395-41ac-a92a-0182bbddb6cf --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_20 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/20/c219c2de-8785-463f-a7c0-0182bbf6332c --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_20 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/20/c2ca1b9e-2e79-4623-a931-0182bbf9d47e --error-incomplete 0;
+
+screen -A -m -d -S sc_CJ91120_2022_08_20 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/20/c575d8d5-0b7d-4db3-a9d3-0182bbe84404 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_20 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/20/fc1f2dda-9734-4c87-a900-0182bbe0ce04 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_21 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/21/362e5dc6-29f0-4420-a1ab-0182c0882847 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_21 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/21/8e086283-912f-4d15-ac2d-0182c06f0410 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_21 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/21/97679cb4-18c7-4c7e-a85a-0182c095d955 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_21 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/21/d1327ebb-6a85-40c6-a165-0182c07bd925 --error-incomplete 0;
+
+screen -A -m -d -S sc_CJ91120_2022_08_21 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/21/ff00c3df-d8c4-41c4-adb3-0182c0a09852 --error-incomplete 0;
+
+
+
+
+
+
+
+screen -A -m -d -S sc_CJ91120_2022_08_22 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/22/49ed227e-85f0-4095-ab64-0182c49166ce --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_22 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/22/56bd9fe3-b1da-4bd3-a39d-0182c48852d0 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_22 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/22/7e4e82e8-6d12-4f83-aeb0-0182c4430e9d --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_22 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/22/9ef25666-cef6-46b5-a951-0182c48a3e0c --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_22 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/22/a87e4225-da2f-4c5e-afd8-0182c48c8633 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_22 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/22/c6251e1a-1059-4f9e-affb-0182c44d9589 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_25 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/25/017b4b31-0345-4fc3-ab46-0182d425e55f --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_25 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/25/2522ba84-e62b-4ea2-a01b-0182d425747a --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_25 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/25/2d05e5a3-16f3-4291-a50a-0182d499f84f --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_25 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/25/36c2b8cd-34e7-4fab-a44e-0182d4617e17 --error-incomplete 0;
+
+screen -A -m -d -S sc_CJ91120_2022_08_25 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/25/4de46655-80a7-4ca7-a0b2-0182d4ab71a7 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_25 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/25/59189529-7976-447c-a0ee-0182d45e6d6c --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_25 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/25/6f058b10-06f0-4d9e-a3c1-0182d4a330d1 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_25 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/25/7dd22847-32fb-446b-a96a-0182d48b0678 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_25 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/25/8850d25d-ad15-44b4-a9c1-0182d43bf31a --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_25 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/25/8c3fd159-31b2-43bd-ae70-0182d45baa44 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_25 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/25/9f8ec291-6847-40a6-aaa9-0182d465931e --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_25 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/25/cc344636-39b6-499d-a8d2-0182d43b57a4 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_25 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/25/de875db4-2197-4496-aa9b-0182d430bf63 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_26 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/26/44afeac7-ae2c-447c-a84c-0182d9a3dd91 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_27 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/27/079f14b4-5b6b-46df-afd7-0182df1a33d4 --error-incomplete 0;
+
+screen -A -m -d -S sc_CJ91120_2022_08_27 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/27/93503a80-d0ab-4221-a5cc-0182df5fa9e6 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_27 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/27/9f0e0257-177b-4c6e-a359-0182df39564d --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_27 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/27/df2f7b40-93d2-46ef-acc6-0182df36ea30 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_28 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/28/5ccd59de-d09d-4f80-a1f3-0182e462e252 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_28 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/28/f3da8c61-44f1-4552-a1fa-0182e47db55c --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_31 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/31/3da19f67-e6fd-4f6e-a28f-0182f3dc6c36 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_31 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/31/64f1cd3e-1578-42af-a961-0182f3cd96ee --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_31 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/31/71b3d9ae-31ec-4d6f-abc6-0182f3d727ef --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_31 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/31/71fbb323-4d77-4ba7-af1c-0182f3d21f39 --error-incomplete 0;
+
+screen -A -m -d -S sc_CJ91120_2022_08_31 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/31/8c6690dd-e42d-4e04-a8c9-0182f3cd185d --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_31 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/31/9fef293c-80d7-43bf-a7a1-0182f3d3fada --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_31 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/31/b962a158-1e8a-48ae-a847-0182f3db6606 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_31 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/31/baff8c13-e5a7-4ffa-a603-0182f38daa17 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_31 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/31/bb19dd5d-30c7-4c6f-a0fc-0182f38cec1e --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_31 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/31/c368b3a2-6f47-4ad7-abee-0182f3e0b7c0 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_31 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/31/d3109691-763a-4d65-aafc-0182f3bce705 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_31 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/31/eead67c7-428c-4e38-a765-0182f3c9aac8 --error-incomplete 0;
+screen -A -m -d -S sc_CJ91120_2022_08_31 bash /mapr/dp.prod.munich/ad-vantage/deploy/session_checker/current_posix/bin/run-session-checker.sh /CJ91120/2022/08/31/f94da833-1038-4ebb-ae73-0182f3c529a3 --error-incomplete 0;
